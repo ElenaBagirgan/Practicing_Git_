@@ -4,3 +4,5 @@ For login page I implement steps and successfully login
 
 
 Implement logout steps
+
+I checked if modules are clikcable
