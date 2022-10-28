@@ -9,3 +9,6 @@ Located submit button
 
 On home page
 Logout from home page
+
+Created a new homepage - NewHomepage
+Located all modules
