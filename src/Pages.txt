@@ -1,1 +1,7 @@
 I will store locators for each page
+
+Located usernameBox
+Located passwordBox
+Located submit button
+
+.....
