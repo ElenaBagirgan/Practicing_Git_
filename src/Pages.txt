@@ -5,3 +5,7 @@ Located passwordBox
 Located submit button
 
 .....
+
+
+On home page
+Logout from home page
